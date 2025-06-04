@@ -67,7 +67,7 @@ ssh username@yourdomain.com
 2. Clone repository:
 ```bash
 cd public_html
-git clone https://github.com/yourusername/laravel-vue-test.git .
+git clone https://github.com/raw-dani/laravel-vue-test.git .
 ```
 
 3. Run deployment script:
@@ -254,7 +254,7 @@ git branch -M main
 ```
 
 ```bash
-git remote add origin https://github.com/yourusername/laravel-vue-test.git
+git remote add origin https://github.com/raw-dani/laravel-vue-test.git
 ```
 
 ```bash
