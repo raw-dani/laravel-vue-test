@@ -22,7 +22,7 @@ Simple Laravel + Vue.js application for testing cPanel hosting compatibility.
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/laravel-vue-test.git
+git clone https://github.com/raw-dani/laravel-vue-test.git
 cd laravel-vue-test
 ```
 
