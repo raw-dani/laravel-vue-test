@@ -1,14 +1,7 @@
 import './bootstrap';
-import { createApp } from 'vue';
 
-// Import component
-import TestComponent from './components/TestComponent.vue';
+import Alpine from 'alpinejs';
 
-// Create Vue app
-const app = createApp({});
+window.Alpine = Alpine;
 
-// Register component
-app.component('test-component', TestComponent);
-
-// Mount app
-app.mount('#app');
+Alpine.start();
